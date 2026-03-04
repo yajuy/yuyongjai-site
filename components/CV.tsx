@@ -9,7 +9,7 @@ export default function CV() {
         rel="noopener noreferrer"
         className="text-base text-cyan-400 transition-colors hover:text-cyan-300 hover:underline"
       >
-        Download full CV (PDF) &rarr;
+        See full CV (PDF) &rarr;
       </a>
     </section>
   );
